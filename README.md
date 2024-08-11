@@ -1,2 +1,2 @@
 # Django_app
-clone django app repo from shubham Lomdhe repository
+clone django-notes-app repo from Shubham Londhe repository
